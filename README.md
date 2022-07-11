@@ -1,2 +1,2 @@
-# dra-go-n
+# dragon 🐉
 An open source machine learning framework written in golang.
